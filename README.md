@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 🤝 I’m looking for help with **others**
-
 - 💬 Ask me about **C and C++**
 
 - 📫 How to reach me **anasbinjaman100@gmail.com**
